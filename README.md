@@ -1,3 +1,4 @@
+Hi 👋 My name is Raghavendra Pratap Bohra
 # 💫 About Me:
 I am a 3rd-year student at SRM University, passionate about coding and eager to contribute to real-world projects. I aim to enhance my coding skills and learn continuously.<br><br>🌍 I'm based in Chennai<br>✉️ You can contact me at raghavbohra8287@gmail.com<br>🧠 I'm currently learning Java, Web Development, and exploring Data Analytics<br>🤝 I'm open to collaborating on interesting and impactful projects<br>⚡ Fun fact: I'm curious about data and its potential in solving real-world problems<br>
 
